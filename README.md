@@ -16,10 +16,15 @@ MODELS
 There are six models that I have trained on training data and test it on testing data. Following are the models that I have trained:
 
 •	Linear Model: Lasso Regression
+
 •	Random Forest Regressor
+
 •	XGBoost Regressor
+
 •	Support Vector Regressor
+
 •	Simple Stacking Model: Averaged Models
+
 •	Stacking Regressor
 
 Best Model: Simple Stacking Model: Averaged Models
